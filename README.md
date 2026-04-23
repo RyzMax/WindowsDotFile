@@ -28,7 +28,7 @@
 ## YSAB
 - Install [**YASB**](https://github.com/amnweb/yasb)   / Установите [**YASB**](https://github.com/amnweb/yasb) 
 - Copy the config files from [**here**](https://github.com/RyzMax/WindowsDotFile/tree/main/YASB). / Скопируйте файлы [**отсюда**](https://github.com/RyzMax/WindowsDotFile/tree/main/YASB)
-- Remove the codes from **your** YASB config and paste the one you just copied. / Удалите весь код из вашего конфмга YASB м вставьте то что вы скопировали
+- Remove the codes from **your** YASB config and paste the one you just copied. / Удалите весь код из вашего конфига YASB и вставьте то что вы скопировали
 - Restart **YASB** for the changes to take effect. / Перезапустите YASB
 
 ## Terminal + Fastfetch
