@@ -8,7 +8,7 @@
 | 📚 Entry | ✨ App |
 |---------------------|------------|
 | Status Bar          | [YASB](#yasb) |
-| Taskbar             | [Windhawk](#windhawk) |
+| Taskbar  + icons    | [Windhawk](#windhawk) |
 | Text Editor         | [VSCode](#vscode) |
 | Terminal            | [Windows Terminal](#windows-terminal) |
 | Browser             | [Zen](#zen) |
@@ -16,6 +16,7 @@
 | Music Player        | [Spotify](#spotify) | 
 | Screen Recording    | [OBS Studio](#obsstudio) |
 | File Explorer Mod   | [ExplorerBlurMica](#ExplorerBlurMica) |
+| Wallpaper           | [WallpaperEngine](#wallpaperengine) |
 
 ## Installation Guide
 > [!NOTE] 
