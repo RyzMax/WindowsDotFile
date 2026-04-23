@@ -43,3 +43,8 @@
  - Install [Nilesoft-Shell](https://nilesoft.org/download) / Установите [Nilesoft-Shell](https://nilesoft.org/download)
  - After installation, go to the folder **C:\Program Files\Nilesoft Shell\imports** and find the **theme.nss** there and paste the contents from [here](https://github.com/RyzMax/WindowsDotFile/tree/main/Nilesoft-Shell) / После установки зайдите в папку **C:\Program Files\Nilesoft Shell\imports** и найдите там **theme.nss** и вставьте содержимое [отсюда](https://github.com/RyzMax/WindowsDotFile/tree/main/Nilesoft-Shell)
  - Restart PC / Перезапустите ПК
+
+## ExplorerBlurMica
+ - Install [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / Установите [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
+ - Unzip the archive and run register.cmd as **an administrator**. / Распакуйте архив и запустите от **имени администратора** register.cmd
+
